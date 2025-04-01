@@ -1,10 +1,9 @@
-Here’s a creative and GitHub-ready version of the README for your project. This version includes proper Markdown formatting with sections that enhance readability and usage on platforms like GitHub. I’ve added emojis, code blocks, and a clean structure to make it more visually appealing and engaging.
 
----
 
-# 🌟 Moko - Your Advanced Virtual Assistant 🌟
 
-Welcome to **Moko**, an intelligent virtual assistant that listens, speaks, and responds to your commands! Built using **React**, **Google Gemini AI**, and **Voice Recognition**, Moko helps you interact with the digital world in a more seamless and personal way. 🎤🗣️💻
+# 🌟 Moko - Your Smart Virtual Assistant 🌟
+
+Welcome to **Moko**, a smart virtual assistant that listens, speaks, and responds to your commands! Built using **React**, **Google Gemini AI**, and **Voice Recognition**, Moko helps you interact with the digital world in a more seamless and personal way. 🎤🗣️💻
 
 ---
 
@@ -18,9 +17,6 @@ Moko is a **React-based virtual assistant** powered by **Google's Gemini AI**. I
 
 - **🎤 Voice-to-Text Recognition**  
   Use your voice to interact with Moko! Convert your speech into text and perform tasks based on voice commands.
-
-- **🗣️ Text-to-Speech (TTS)**  
-  Moko speaks back in **Hindi** or **English** with customizable speed, pitch, and volume. 🎶
 
 - **🧠 AI-Powered Responses**  
   Moko uses **Google Gemini AI** to respond intelligently to queries that go beyond simple commands.
@@ -191,18 +187,12 @@ If you want to contribute to this project, feel free to fork it, open an issue, 
 
 ## 👨‍💻 Author
 
-**Moko** was created by **[Alok Ranjan](https://github.com/yourusername)** as part of an educational project to explore AI, voice recognition, and modern web development tools.
+**Moko** was created by **[Alok Ranjan] as part of an educational project to explore AI, voice recognition, and modern web development tools.
 
 ---
 
-## 📢 Support
 
-If you face any issues or have questions, feel free to open an issue on this repository. I’ll be happy to help! 😊
-
----
 
 ### ✨ Thanks for visiting Moko! ✨
 
 ---
-
-This version is designed to be visually appealing and easy to navigate on GitHub. It’s packed with Markdown features like headers, code blocks, links, and images for a polished look. Feel free to customize it further!
