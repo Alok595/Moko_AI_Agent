@@ -1,6 +1,3 @@
-
-
-
 # 🌟 Moko - Your Smart Virtual Assistant 🌟
 
 Welcome to **Moko**, a smart virtual assistant that listens, speaks, and responds to your commands! Built using **React**, **Google Gemini AI**, and **Voice Recognition**, Moko helps you interact with the digital world in a more seamless and personal way. 🎤🗣️💻
@@ -31,13 +28,13 @@ Moko is a **React-based virtual assistant** powered by **Google's Gemini AI**. I
 ### 1. **Voice Recognition (Speech-to-Text)**
 
 - Moko listens for commands via the **SpeechRecognition API**. Once you click the microphone, the assistant begins listening for commands. When recognized, the speech is converted into text and displayed on the screen.
-  
+
   ```js
   let recognition = new speechRecognition();
   recognition.onresult = (e) => {
     let currentIndex = e.resultIndex;
     let transcript = e.results[currentIndex][0].transcript;
-    setRecoText(transcript); 
+    setRecoText(transcript);
     takeCommand(transcript.toLowerCase());
   };
   ```
@@ -77,7 +74,7 @@ Moko is a **React-based virtual assistant** powered by **Google's Gemini AI**. I
     text_speak.volume = 1;
     text_speak.rate = 1.2;
     text_speak.pitch = 1;
-    text_speak.lang = "hi-IN"; 
+    text_speak.lang = "hi-IN";
     window.speechSynthesis.speak(text_speak);
   };
   ```
@@ -187,11 +184,9 @@ If you want to contribute to this project, feel free to fork it, open an issue, 
 
 ## 👨‍💻 Author
 
-**Moko** was created by **[Alok Ranjan] as part of an educational project to explore AI, voice recognition, and modern web development tools.
+**Moko** was created by \*\*[Alok Ranjan] as part of an educational project to explore AI, voice recognition, and modern web development tools.
 
 ---
-
-
 
 ### ✨ Thanks for visiting Moko! ✨
 
